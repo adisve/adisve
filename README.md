@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adisve
 - 👀 I’m interested in creating interesting applications and programs
-- 🌱 I’m currently learning Java, Kotlin, C
+- 🌱 I’m currently learning Java, Kotlin, C and C++
 - 📫 How to reach me:
     * adis.veletanlic@gmail.com
 
