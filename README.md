@@ -6,7 +6,7 @@ struct Developer {
     let name: String = "Adis Veletanlic"
     let pronouns: String = "he/him"
     let age: Int = "22"
-    let role: String = "Mobile app/Web Developer
+    let role: String = "Mobile app/Web Developer"
     let location: String = "Sweden"
     let languages: [String] = ["Swedish", "English"]
     let skills: [String] = ["Swift", "Typescript", "C", "Kotlin", "C#", "Java", "Python"]
