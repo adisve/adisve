@@ -12,7 +12,7 @@ struct Developer {
     let skills: [String] = ["Swift", "Typescript", "C", "Kotlin", "C#", "Java", "Python"]
     
     func sayHi() {
-        print("Hey, thanks for dropping by, feel free to have a look at my work!")
+        print("Hello, thanks for checking out my profile :D Feel free to have a look at my work!")
     }
 }
 ```
