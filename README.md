@@ -4,7 +4,6 @@
 ```swift
 struct Developer {
     let name: String = "Adis Veletanlic"
-    let pronouns: String = "he/him"
     let age: Int = "22"
     let role: String = "Mobile app/Web Developer"
     let location: String = "Sweden"
