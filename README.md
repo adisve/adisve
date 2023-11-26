@@ -5,10 +5,10 @@
 struct Developer {
     let name: String = "Adis Veletanlic"
     let age: Int = "22"
-    let role: String = "Mobile app/Web Developer"
+    let role: String = "Developer"
     let location: String = "Sweden"
     let languages: [String] = ["Swedish", "English"]
-    let skills: [String] = ["Swift", "Typescript", "C", "Kotlin", "C#", "Java", "Python"]
+    let skills: [String] = ["Swift", "Typescript", "C", "Kotlin", "C#", "Java", "Python", "Machine Learning"]
     
     func sayHi() {
         print("Hello, thanks for checking out my profile :D Feel free to have a look at my work!")
